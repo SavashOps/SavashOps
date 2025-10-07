@@ -120,13 +120,13 @@
 
 ### 💡 Fun Facts
 
-- 🧩 23 years old and love learning by building  
-- ☕ Addicted to coffee and clean code  
-- 🛠 Contributor mindset — always improving existing projects  
-- 💬 Favorite stack: Node.js + Express + MongoDB  
+- 🧩 23 years old and passionate about **learning by building projects**
+- ☕ Coffee enthusiast ☕ & advocate of **clean, maintainable code**
+- 🛠 Contributor mindset — always **enhancing and optimizing existing projects**
+- 💬 Favorite stack: **Node.js + Express + MongoDB**  
 
 ---
 
 <p align="center">
-  <i>“First, solve the problem. Then, write the code.”</i>  
+  <i>“The One whose existence is without conditions and everlasting is God”</i>  
 </p>
