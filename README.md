@@ -28,7 +28,13 @@
 
 #### 🧩 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+
+![Node.js](https://img.shields.io/badge/Node.js-90%25-brightgreen) ![Express](https://img.shields.io/badge/Express-95%25-green) ![MongoDB](https://img.shields.io/badge/MongoDB-95%25-yellowgreen) ![Mongoose](https://img.shields.io/badge/Mongoose-95%25-yellow) ![Postman](https://img.shields.io/badge/Postman-100%25-orange)
+
 </p>
 
 #### 🎨 Frontend
