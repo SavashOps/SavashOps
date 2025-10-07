@@ -100,32 +100,22 @@
 
 > 💡 Coming soon — my highlighted backend projects will be listed here.
 
-- 🧠 **Project 1** — A brief description of what it does and tools used  
-- ⚡ **Project 2** — Another project showcasing backend or API work  
-
 ---
 
 ### 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,graphql,docker,jest" />
+  <img src="https://skillicons.dev/icons?i=typescript,gitlab" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://t.me/YourTelegramHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-t.me/SavashOps-0088cc)](https://t.me/SavashOps)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alireza_bozorgiyan-0A66C2)](https://www.linkedin.com/in/alireza-bozorgiyan-794595388/)
+[![Instagram](https://img.shields.io/badge/Instagram-savash.ops-E1306C)](https://www.instagram.com/savash.ops/)
+[![Email](https://img.shields.io/badge/Email-savash.pg.cy@gmail.com-D14836)](mailto:savash.pg.cy@gmail.com)
 
 ---
 
@@ -140,5 +130,4 @@
 
 <p align="center">
   <i>“First, solve the problem. Then, write the code.”</i>  
-  <br/>– John Johnson
 </p>
