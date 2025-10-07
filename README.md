@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SavashOps/SavashOps/main/banner.gif" width="100%" alt="Savash Animated Banner"/>
+</p>
+
+
 <!-- 🌟 SAVASHOPS GITHUB PROFILE README -->
 <h1 align="center">Hey there, I'm Savash 👋</h1>
 
