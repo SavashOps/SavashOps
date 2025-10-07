@@ -45,16 +45,25 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavashOps&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavashOps&layout=compact&theme=radical" height="165" />
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavashOps&theme=github_dark" width="100%" alt="Profile Summary"/>
+
+<!-- Stats + Languages -->
+<br/>
+<div >
+<img src="https://github-readme-stats.vercel.app/api?username=SavashOps&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" width="50%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SavashOps&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" width="50%" alt="GitHub Streak"/>
+</div>
+<!-- Streak -->
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavashOps&layout=compact&hide_border=true&title_color=F7DF1E&text_color=FFFFFF&bg_color=0d1117" width="100%" alt="Top Languages"/>
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SavashOps&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ---
 
