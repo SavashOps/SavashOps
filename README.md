@@ -1,65 +1,77 @@
-<!-- 👋 INTRO -->
-<h1 align="center">Hi there, I'm Savash 👋</h1>
+<!-- 🌟 SAVASHOPS GITHUB PROFILE README -->
+<h1 align="center">Hey there, I'm Savash 👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b> from Iran 🇮🇷  
+  <b>Backend Developer</b> | <b>Node.js Enthusiast</b> | <b>JavaScript Lover</b>  
   <br/>
-  Passionate about building scalable backend systems and crafting clean, efficient APIs.
+  Building scalable APIs, clean backend systems, and crafting efficient code.
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Bachelor's degree in **Software Engineering** from **Islamic Azad University**  
-- 💻 Focused on **Backend Development** using Node.js, Express & MongoDB  
-- ⚙️ Also experienced in **Frontend** (HTML, CSS, Tailwind, JavaScript)  
-- 🚀 Always learning, improving, and exploring new technologies  
-- 🔥 Currently working on improving backend architecture & RESTful API design  
+- 🎓 **Bachelor’s in Software Engineering** from *Islamic Azad University*  
+- 💻 Currently focusing on **Backend Development** (Node.js, Express, MongoDB)  
+- 🎨 Experienced with **Frontend technologies** like HTML, CSS, Tailwind, and JS  
+- 🚀 Passionate about problem-solving, clean architecture, and modern web systems  
+- 🌍 Open to remote collaboration and backend-focused opportunities  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-#### 💻 Backend
-Node.js · Express.js · Mongoose · MongoDB · RESTful API
+#### 🧩 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,postman" />
+</p>
 
 #### 🎨 Frontend
-HTML · CSS · TailwindCSS · JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+</p>
 
-#### 🧩 Template Engines
-EJS · Handlebars · Pug
+#### 🧠 Template Engines
+<p align="left">
+  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pug-4a2b0f?style=for-the-badge&logo=pug&logoColor=white" />
+</p>
 
-#### 🧰 Tools & Version Control
-Git · GitHub · VS Code · Postman
+#### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavashOps&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavashOps&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SavashOps&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavashOps&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SavashOps&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SavashOps&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-> _(Coming soon — links to your best repositories will go here!)_
+> 💡 Coming soon — my highlighted backend projects will be listed here.
 
-- 🧩 **Project 1** — Short description, tech used, and goal  
-- ⚡ **Project 2** — Another awesome thing you're building  
+- 🧠 **Project 1** — A brief description of what it does and tools used  
+- ⚡ **Project 2** — Another project showcasing backend or API work  
 
 ---
 
 ### 🌱 Currently Learning
 
-TypeScript · GraphQL · Docker · Testing (Jest / Mocha)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,graphql,docker,jest" />
+</p>
 
 ---
 
@@ -81,13 +93,14 @@ TypeScript · GraphQL · Docker · Testing (Jest / Mocha)
 
 ### 💡 Fun Facts
 
-- 🧩 23 years old and passionate about solving logical problems  
-- 🎵 Love clean code, open-source projects, and chill background music while coding  
-- ☕ Fuel: coffee + late-night debugging 😄
+- 🧩 23 years old and love learning by building  
+- ☕ Addicted to coffee and clean code  
+- 🛠 Contributor mindset — always improving existing projects  
+- 💬 Favorite stack: Node.js + Express + MongoDB  
 
 ---
 
 <p align="center">
-  <i>“Code is like humor — when you have to explain it, it’s bad.”</i>  
-  <br/>– Cory House
+  <i>“First, solve the problem. Then, write the code.”</i>  
+  <br/>– John Johnson
 </p>
