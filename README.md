@@ -17,10 +17,10 @@
 ### 🧠 About Me
 
 - 🎓 **Bachelor’s in Software Engineering** from *Islamic Azad University*  
-- 💻 Currently focusing on **Backend Development** (Node.js, Express, MongoDB)  
-- 🎨 Experienced with **Frontend technologies** like HTML, CSS, Tailwind, and JS  
-- 🚀 Passionate about problem-solving, clean architecture, and modern web systems  
-- 🌍 Open to remote collaboration and backend-focused opportunities  
+- 💻 Currently specializing in **Backend Development** with Node.js, Express, and MongoDB  
+- 🎨 Comfortable and experienced with **Frontend technologies** like HTML, CSS, Tailwind, and JavaScript  
+- 🚀 Passionate about **problem-solving**, clean architecture, scalable systems, and modern web development
+- 🌍 Open to remote collaboration and **full-stack** opportunities, with a **backend** focus 
 
 ---
 
