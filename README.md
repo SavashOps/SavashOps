@@ -42,6 +42,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
 </p>
 
+![HTML](https://img.shields.io/badge/HTML-100%25-E34F26)
+![CSS](https://img.shields.io/badge/CSS-100%25-1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-100%25-38B2AC)
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E)
+
 #### 🧠 Template Engines
 <p align="left">
   <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logoColor=white" />
@@ -49,10 +54,23 @@
   <img src="https://img.shields.io/badge/Pug-4a2b0f?style=for-the-badge&logo=pug&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" width="48" height="48" alt="Handlebars"/>
+  <img src="https://skillicons.dev/icons?i=pug" width="48" height="48" alt="Pug"/>
+</p>
+
+![EJS](https://img.shields.io/badge/EJS-100%25-8BC34A)
+![Handlebars](https://img.shields.io/badge/Handlebars-95%25-F0772B)
+![Pug](https://img.shields.io/badge/Pug-95%25-4A2B0F)
+
 #### 🧰 Tools & Others
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+![Git](https://img.shields.io/badge/Git-100%25-F05032)
+![GitHub](https://img.shields.io/badge/GitHub-100%25-181717)
+![VS Code](https://img.shields.io/badge/VS_Code-100%25-0078D4)
 
 ---
 
