@@ -48,14 +48,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E)
 
 #### 🧠 Template Engines
-<p align="left">
-  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pug-4a2b0f?style=for-the-badge&logo=pug&logoColor=white" />
-</p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" width="48" height="48" alt="Handlebars"/>
+  <img src="https://raw.githubusercontent.com/SavashOps/SavashOps/main/EJS-logo.png" width="48" height="48" alt="Savash Animated Banner"/>
+  <img src="https://raw.githubusercontent.com/SavashOps/SavashOps/main/Handlebars-logo.svg" width="48" height="48" alt="Savash Animated Banner"/>
   <img src="https://skillicons.dev/icons?i=pug" width="48" height="48" alt="Pug"/>
 </p>
 
