@@ -61,12 +61,13 @@
 
 #### 🧰 Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
 </p>
 
 ![Git](https://img.shields.io/badge/Git-100%25-F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-100%25-181717)
 ![VS Code](https://img.shields.io/badge/VS_Code-100%25-0078D4)
+![Vite](https://img.shields.io/badge/Vite-100%25-a256fe)
 
 ---
 
